@@ -1,0 +1,7 @@
+name: HidePlayers
+author: Lubomir Stankov
+version: 1.0
+main: bg.lubomir_stankov.Main
+commands:
+  hiding:
+    description: Hide player GUI menu.

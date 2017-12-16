@@ -1,0 +1,19 @@
+# -------------------------------------------------------------
+#
+#           
+#                     | Lubomir Stankov |
+#                   ..All rights reversed..
+#
+#                      --- Variables ---
+#                     $sec - show seconds 
+# -------------------------------------------------------------
+Prefix: "&e&lHidePlayers &7&l> "
+Hide-Message: "&aYou hide all players"
+Enable-Status: "&cHide"
+Disable-Status: "&bShow"
+GUItitle: "&e&lHidePlayers"
+Show-Message: "&bYou show all players"
+No-Permission: "&cYou don't have permission to do that."
+No-Player: "&bThe command may run only from player ;)"
+Delay-Message: "&aYou must wait &c%s% &aseconds before doing that again!!"
+Delay: 3
